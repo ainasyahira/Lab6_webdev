@@ -28,5 +28,3 @@ imagepng($image);
 // Free up memory
 imagedestroy($image);
 ?>
-
-
